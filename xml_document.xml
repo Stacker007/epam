@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<university>
+  <name> BelSUT </name>
+	<listeners>
+		<listener>
+			<name> Petrushenko </name>
+			<age> 28 </age>
+		</listener>
+		<listener>
+			<name> Churakov </name>
+			<age> 24 </age>
+		</listener>
+	</listeners>
+</university>
