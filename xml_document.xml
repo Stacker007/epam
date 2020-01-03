@@ -2,7 +2,7 @@
 <university>
   <name> BelSUT </name>
 	<listeners>
-		<listener>
+		<listener><!-- // <listener name = "Petrushenko" age="28"/>-->
 			<name> Petrushenko </name>
 			<age> 28 </age>
 		</listener>
@@ -12,3 +12,4 @@
 		</listener>
 	</listeners>
 </university>
+<!-- validation: CoreFiling-->
