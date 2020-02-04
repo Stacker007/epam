@@ -1,0 +1,16 @@
+USERS:
+ID - unique, int auto++
+LOGIN - unique, String,
+PASS -
+FirstName
+LastName
+
+TODO's
+ID
+Date today-дата, на которое дело запланировано
+Status - 3 stats - int, in Java - enum
+flTODO - name of file 
+path - path of file
+userID - == ID of User
+
+
