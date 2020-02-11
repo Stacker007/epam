@@ -1,1 +1,25 @@
+<input type="hidden" name="command" value="1"> <!-- скрытый параметр, передаваемый с формой-->
+
+web.xml - дескриптор развертывания приложений, не читается с аннотациями
+
+Данные для инициализации СРВЛТ
+<servlet>
+  <servlet-name> .../
+  <servlet-class>.../
+  <init-param>
+    <param-name> ...</>
+    <param-value>
+   </init-param>
+</serlet>
+
+
+in JAVA getSerletContext() getSerletConfig()
+
+Класс для поддержки куков
+
+javax.servlet.http.Cookie
+
+addCookie(Cookie c) - для обмена куками
+
+setMaxAge(int i); -время хранения куков (-1 - не хранить)
 
